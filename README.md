@@ -7,9 +7,10 @@ Author: **Kayla Foremski and Hunter Rich**
 To Compile: javac *.java 
 
 To Run: java CapitalizeServer (starts server)
-	    java CapitalizeClient (starts client, opens pop up to input ip address
-	    (localhost))
-        run CapitalizeCLient each time you want a new client.
+
+java CapitalizeClient (starts client, opens pop up to input ip address (localhost))
+
+run CapitalizeCLient each time you want a new client.
 
 ## License
 
