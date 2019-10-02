@@ -4,9 +4,9 @@
 
 Author: **Kayla Foremski and Hunter Rich**
 
-To Compile: javac *.java 
+**To Compile:** javac *.java 
 
-To Run: java CapitalizeServer (starts server)
+**To Run:** java CapitalizeServer (starts server)
 
 java CapitalizeClient (starts client, opens pop up to input ip address (localhost))
 
