@@ -1,16 +1,19 @@
 # Multi-thread-Capitalize-Client-and-Server
 
-**Multi-thread-Capitalize-Client-and-Server** is a client/server program that dynamically changes the number of threads depending on number of jobs waiting to be processed. Exectuted using a thread pool design. Implemented GUI, socket connections, and parallel programming skills.
+This is a client/server program that dynamically changes the number of threads depending on number of jobs waiting to be processed. Exectuted using a thread pool design. **Skills implemented: GUI, socket connections, and parallel programming.**
 
 Author: **Kayla Foremski and Hunter Rich**
 
 **To Compile:** javac *.java 
 
-**To Run:** java CapitalizeServer (starts server)
+**To Run:** 
+```
+java CapitalizeServer (starts server)
 
 java CapitalizeClient (starts client, opens pop up to input ip address (localhost))
 
 run CapitalizeCLient each time you want a new client.
+```
 
 ## License
 
